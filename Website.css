@@ -1,0 +1,99 @@
+body{
+  background-image: url(/Individual-Project1/Images/Programming.jpg);
+  background-size:cover;
+  position: center;
+}
+.home{
+background-color: #0000ff9d;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+li {
+  float: left;
+}
+li a, .dropbtn {
+  display: inline-block;
+  color: #ffffff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover, .dropdown:hover .dropbtn {
+  background-color: #0000ff9d;
+}
+li.dropdown {
+  display: inline-block;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #03f0f85c;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px #00000033;
+  z-index: 1;
+}
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+.dropdown-content a:hover {
+  background-color: #12ffcc56;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+li {
+  float: left;
+}
+li.dropdown2 {
+  display: inline-block;
+}
+li a, .dropbtn2 {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover, .dropdown:hover .dropbtn2  {
+  background-color: #0000ff9d;
+}
+li.dropdown2 {
+  display: inline-block;
+}
+.dropdown-content2 {
+  display: none;
+  position: absolute;
+  background-color: #03f0f85c;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px #00000033;
+  z-index: 1;
+}
+.dropdown-content2 a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+.dropdown-content2 a:hover {
+  background-color: #12ffcc56;
+}
+.dropdown2:hover .dropdown-content2 {
+  display: block;
+}

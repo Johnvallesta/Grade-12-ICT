@@ -1,0 +1,131 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:#badcfc
+}
+.First{
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
+    background-image: linear-gradient(to right, #9c57eb, #6c00fa)
+}
+.image-1{
+    float: right;
+    width: 120px;
+    height: 115px;
+    border-radius: 20px;
+    border-style: solid;
+}
+.span-1{
+    color: #ff0000;
+}
+.border-2{
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 20px;
+    background-image: linear-gradient(to right, #751010, #f3bbbb)
+}
+.section-1{
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 20px;
+    background-image: linear-gradient(to right, #a73681, #80bee2)
+}
+.One-1{
+    margin-left: 30px;
+}
+.Birthday-1{
+    margin-left: 30px;
+}
+.two-dot{
+    margin-left: 90px;
+}
+.Age-1{
+    margin-left: 30px;
+}
+.three-dot{
+    margin-left: 65px;
+}
+.Mali{
+    margin-left: 30px;
+}
+.Four-dot{
+    margin-left: 38px;
+}
+.Statuskosabohai{
+    margin-left: 30px;
+}
+.Five-dots{
+    margin-left: 65px;
+}
+.pINTEREST{
+    margin-left: 30px;
+}
+.section-2{
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 20px;
+    background-image: linear-gradient(to right, #57c225, #0044fd)
+}
+.bukol-1{
+    margin:0%
+}
+.dotdot{
+    margin-left: 90px;
+}
+.strand{
+    margin-left: 70px;
+}
+.skol{
+    margin-left: 307px;
+}
+.address-1{
+    margin-left: 307px;
+}
+.prisint{
+    margin-left: 308px;
+}
+.bukol-2{
+    margin:0%
+}
+.dotdot-1{
+    margin-left: 90px;
+}
+.skol-1{
+    margin-left: 74px;
+}
+.address-2{
+    margin-left: 307px;
+}
+.prisint-1{
+    margin-left: 308px;
+}
+.bukol-3{
+    margin:0%
+}
+.dotdot-2{
+    margin-left: 90px;
+}
+.skol-2{
+    margin-left: 74px;
+}
+.address-3{
+    margin-left: 308px;
+}
+.prisint-2{
+    margin-left: 308px;
+}
+.div-2{
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 20px;
+    background-image: linear-gradient(to right, #751010, #f3bbbb)
+}
+.hereby{
+    margin-left: 30%;
+}
+.Name-1{
+    margin-left: 70%
+}
+.apple-1{
+    margin-left: 75%;
+}

@@ -1,0 +1,36 @@
+body{
+    background-image: url(/Individual-Project1/Images/Programming.jpg);
+    background-size:cover;
+    position: center;
+}
+.goli{
+    margin-right: 90px;
+    font-style: oblique;
+    font-size: xx-large;
+    color: antiquewhite;
+    padding-left: 40%;
+}
+div.gallery {
+    border: 3px solid skyblue;
+    background-color: white;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+  
+  .eshtml{
+    box-sizing: border-box;
+  }
+  
+  .galle {
+    padding: 0 6px;
+    width: 50%;
+    margin-left: 280px;
+  }
